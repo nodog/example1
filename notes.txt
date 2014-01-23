@@ -7,3 +7,5 @@ Ab-   = Ab, Cb, Eb
 G-7   = G, Bb, D, Gb
 C7b9  = C, E, G, Bb, Db
 F-7   = F, Ab, C, E
+
+Haha! I'm all up in your stuff, messin!
