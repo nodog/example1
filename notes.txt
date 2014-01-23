@@ -1,2 +1,3 @@
+EbMa7 = Eb, G, Bb, D
 AbMa7 = Ab, C, Eb, G
 
